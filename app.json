@@ -1,6 +1,6 @@
 {
     "name": "سورس ميوزك ميغو",
-    "description": "سورس ميوزك ميغو",
+    "description": "@Bqbxb",
     "logo": "https://pbs.twimg.com/profile_images/1438310893746536458/WmoPfNE3.jpg",
     "keywords": [
         "Telegram",
@@ -8,7 +8,7 @@
         "Dragon_2022_D",
         "VideoPlayer"
     ],
-    "repository": "https://github.com/taher-1/mus",
+    "repository": "dj",
     "env": {
         "SESSION": {
             "description": "هنا ضع كود البايروكرام",
